@@ -1,0 +1,6 @@
+Metadata-Version: 2.1
+Name: sensor
+Version: 0.1
+Author: hamza
+Author-email: descent.hamza153@gmail.com
+Requires-Dist: pymongo

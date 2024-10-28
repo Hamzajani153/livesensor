@@ -1,0 +1,5 @@
+Create a git hub repo.
+create virtual env.
+create a file setup and inside this we write our packages and install this.
+move the .git file from respected dir to main dir so everything is push to the
+github.
