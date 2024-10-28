@@ -3,3 +3,6 @@ create virtual env.
 create a file setup and inside this we write our packages and install this.
 move the .git file from respected dir to main dir so everything is push to the
 github.
+use -e . is use in requiements.txt so no need to run the setup it automatically pick it.
+Than use multiple git cmds.
+Hello im in dev1.
